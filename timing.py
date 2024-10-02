@@ -26,7 +26,6 @@ def get_timing(timing):
 
 timing = """
 me 2:45
-everyone is an expert 5:00
 normal classroom  3:50
 bloom: 6:40
 mbl-> master teaching  1:00
