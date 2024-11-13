@@ -1,33 +1,7 @@
-# timing = """
-# me 2:45
-# everyone is an expert 5:00
-# normal classroom  3:50
-# bloom: 6:40
-# mbl-> master teaching  1:00
-# filling of a pail: 4:30
-# growth mindset
-# framework
-# fundamental code concepts
-# protege effect
-# guild
-# homework
-# end
-# """
-
-# import re
-
-
-# def get_timing(timing):
-#     timing = timing.split("\n")
-#     timing = [re.sub(r"\d+:\d+", "", t) for t in timing]
-#     timing = [t for t in timing if t]
-#     return timing
-
-
 timing = """
-me 2:45
-normal classroom  3:50
 bloom: 5:00
+me 2:45
+# normal classroom  3:50
 mbl-> master teaching  1:00
 filling of a pail: 4:30  
 # growth mindset: 5:00
